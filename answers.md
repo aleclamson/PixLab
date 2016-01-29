@@ -3,4 +3,5 @@
 3. the right most is 640
 4. the buttom is 480
 5. it increases going down
-6. it increses form left to right.
+6. it increses form left to right
+7. yes they look like small squares
