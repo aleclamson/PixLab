@@ -184,6 +184,10 @@ public class Picture extends SimplePicture {
 				}
 			}
 	}
+	
+	public void mirrorHorizontalBottoTop() {
+		Pixel[][] pixels = this.getPixels2D();
+	}
 	/** Mirror just part of a picture of a temple */
 	public void mirrorTemple() {
 		int mirrorPoint = 276;
